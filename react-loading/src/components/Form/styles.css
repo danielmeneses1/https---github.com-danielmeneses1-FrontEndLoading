@@ -1,0 +1,11 @@
+.form-container{
+color: black;
+
+}
+
+.inputBox{
+   display: flex;
+   flex-direction: column;
+}
+
+.label{}

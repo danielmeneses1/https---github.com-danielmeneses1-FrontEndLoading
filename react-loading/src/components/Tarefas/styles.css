@@ -1,0 +1,20 @@
+.tarefas-wrapper {
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   padding: 10px;
+}
+
+.tarefas-card {
+   padding: 10px;
+   color: black;
+   display: flex;
+   flex-direction: column;
+}
+
+
+
+.deletar-button {
+   background-color: #228be6;
+   color: #FFF
+}
